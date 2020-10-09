@@ -49,6 +49,7 @@ public class LapsyLintu : PhysicsGame
         ajastin.Start();
     }
 
+    // Testi
     public void AlustaPisteLaskuri()
     {
         pisteLaskuri = new IntMeter(0);
