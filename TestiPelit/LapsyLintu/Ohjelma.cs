@@ -17,7 +17,7 @@ namespace Program
         [STAThread]
         static void Main()
         {
-            using (var game = new SoundAnalyzer())
+            using (var game = new LapsyLintu())
                 game.Run();
         }
     }

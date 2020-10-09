@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LapsyLintu", "LapsyLintu\LapsyLintu.csproj", "{D696005C-4790-4C62-A2ED-0706C6DADFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D696005C-4790-4C62-A2ED-0706C6DADFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D696005C-4790-4C62-A2ED-0706C6DADFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D696005C-4790-4C62-A2ED-0706C6DADFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D696005C-4790-4C62-A2ED-0706C6DADFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FB53E6-4654-430C-A65A-9CE5F4FB0C44}
+	EndGlobalSection
+EndGlobal
