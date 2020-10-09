@@ -88,6 +88,7 @@ public class LapsyLintu : PhysicsGame
         ylaSeina.Velocity = new Vector(-100, 0);
     }
 
+    // Testi2
     public void LintuTormays(PhysicsObject tormaaja, PhysicsObject kohde)
     {
         MessageDisplay.Add("Bump to: " + kohde.Tag);
